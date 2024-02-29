@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "GI7X9PdL32x4cZbZ8daEJUwKQKAho/Ao/i4vbGTvgEg=",
+  "Source": "sql webapi",
+  "BasePath": "_content/sql webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "sql webapi\\wwwroot",
+      "Source": "sql webapi",
+      "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
+      "BasePath": "_content/sql webapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\index.html",
+      "SourceId": "sql webapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
+      "BasePath": "_content/sql webapi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

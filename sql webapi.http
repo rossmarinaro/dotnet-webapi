@@ -1,0 +1,6 @@
+@sql_webapi_HostAddress = http://localhost:5024
+
+GET {{sql_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

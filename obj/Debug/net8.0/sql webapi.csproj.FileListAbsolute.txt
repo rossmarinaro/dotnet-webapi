@@ -1,0 +1,40 @@
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.csproj.AssemblyReference.cache
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.AssemblyInfoInputs.cache
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.AssemblyInfo.cs
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.csproj.CoreCompileInputs.cache
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\appsettings.Development.json
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\appsettings.json
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.exe
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.deps.json
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.runtimeconfig.json
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.pdb
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets.build.json
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets.development.json
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets\msbuild.sql webapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets\msbuild.build.sql webapi.props
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sql webapi.props
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sql webapi.props
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\scopedcss\bundle\sql webapi.styles.css
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.csproj.Up2Date
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.dll
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\refint\sql webapi.dll
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.pdb
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.genruntimeconfig.cache
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\ref\sql webapi.dll
+C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.staticwebassets.runtime.json
