@@ -1,6 +1,3 @@
-
-
-
 class Model {
 
     public string? name { get; set; }

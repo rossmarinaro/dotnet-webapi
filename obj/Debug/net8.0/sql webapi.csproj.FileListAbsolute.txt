@@ -38,3 +38,4 @@ C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.pdb
 C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.genruntimeconfig.cache
 C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\ref\sql webapi.dll
 C:\project_data\projects\c#\sql webapi\bin\Debug\net8.0\sql webapi.staticwebassets.runtime.json
+C:\project_data\projects\c#\sql webapi\obj\Debug\net8.0\sql webapi.sourcelink.json

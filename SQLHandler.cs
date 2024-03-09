@@ -64,12 +64,10 @@ class SQLHandler {
     public void SetData(Model? data)
     {
 
-        string cmd_str;
-
         if (data != null)
         {           
 
-            cmd_str = "INSERT INTO Users (name, email, ID, score) VALUES ('" + data.name.ToString() + "', '" + data.email.ToString() + "', '" + data.ID.ToString() + "', '" + data.score.ToString() + "')";
+            string cmd_str = "INSERT INTO Users (name, email, ID, score) VALUES ('" + data.name.ToString() + "', '" + data.email.ToString() + "', '" + data.ID.ToString() + "', '" + data.score.ToString() + "')";
             
             SqlCommand command = new SqlCommand(cmd_str, cnn);
             command.ExecuteNonQuery();
