@@ -1,32 +1,32 @@
 {
   "Files": [
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\icon.png",
-      "PackagePath": "staticwebassets\\meatball madness\\icon.png"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\icon.png",
+      "PackagePath": "staticwebassets\\meatball-madness\\icon.png"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.data",
-      "PackagePath": "staticwebassets\\meatball madness\\index.data"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.data",
+      "PackagePath": "staticwebassets\\meatball-madness\\index.data"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.html",
-      "PackagePath": "staticwebassets\\meatball madness\\index.html"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.html",
+      "PackagePath": "staticwebassets\\meatball-madness\\index.html"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.js",
-      "PackagePath": "staticwebassets\\meatball madness\\index.js"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.js",
+      "PackagePath": "staticwebassets\\meatball-madness\\index.js"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.wasm",
-      "PackagePath": "staticwebassets\\meatball madness\\index.wasm"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.wasm",
+      "PackagePath": "staticwebassets\\meatball-madness\\index.wasm"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.worker.js",
-      "PackagePath": "staticwebassets\\meatball madness\\index.worker.js"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.worker.js",
+      "PackagePath": "staticwebassets\\meatball-madness\\index.worker.js"
     },
     {
-      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\style.css",
-      "PackagePath": "staticwebassets\\meatball madness\\style.css"
+      "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\style.css",
+      "PackagePath": "staticwebassets\\meatball-madness\\style.css"
     },
     {
       "Id": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\test\\index.html",

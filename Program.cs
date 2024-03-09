@@ -5,7 +5,10 @@ using System.Text.Json.Nodes;
 using System.Threading.Tasks;
 using Microsoft.Net.Http.Headers;
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions {
+   Args = args,
+   WebRootPath = "wwwroot/meatball-madness"
+});
 
 builder.Services.AddDirectoryBrowser();
 builder.Services.AddEndpointsApiExplorer();
@@ -13,12 +16,11 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-app.UseDirectoryBrowser();
+//app.UseDirectoryBrowser();
 app.UseHttpsRedirection();
 
 app.UseDefaultFiles(); 
 app.UseStaticFiles(new StaticFileOptions {  
-
       OnPrepareResponse = packet => {
          packet.Context.Response.Headers.Append("Cross-Origin-Opener-Policy", "same-origin");
          packet.Context.Response.Headers.Append("Cross-Origin-Embedder-Policy", "require-corp");

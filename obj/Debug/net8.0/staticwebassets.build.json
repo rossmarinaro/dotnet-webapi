@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HB73ke3pSRGyBeTyBCbZSzUsXEMLlaS955B12Bstxps=",
+  "Hash": "2mWqx4c64ZKhyAJZB4qbAASy229VxvnpnCUHqkKHm+g=",
   "Source": "sql webapi",
   "BasePath": "_content/sql webapi",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\icon.png",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\icon.png",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/icon.png",
+      "RelativePath": "meatball-madness/icon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\icon.png"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\icon.png"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.data",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.data",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/index.data",
+      "RelativePath": "meatball-madness/index.data",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,15 +52,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\index.data"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\index.data"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.html",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.html",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/index.html",
+      "RelativePath": "meatball-madness/index.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\index.html"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\index.html"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.js",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.js",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/index.js",
+      "RelativePath": "meatball-madness/index.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\index.js"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\index.js"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.wasm",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.wasm",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/index.wasm",
+      "RelativePath": "meatball-madness/index.wasm",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\index.wasm"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\index.wasm"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\index.worker.js",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\index.worker.js",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/index.worker.js",
+      "RelativePath": "meatball-madness/index.worker.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\index.worker.js"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\index.worker.js"
     },
     {
-      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball madness\\style.css",
+      "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\meatball-madness\\style.css",
       "SourceId": "sql webapi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\",
       "BasePath": "_content/sql webapi",
-      "RelativePath": "meatball madness/style.css",
+      "RelativePath": "meatball-madness/style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\meatball madness\\style.css"
+      "OriginalItemSpec": "wwwroot\\meatball-madness\\style.css"
     },
     {
       "Identity": "C:\\project_data\\projects\\c#\\sql webapi\\wwwroot\\test\\index.html",
